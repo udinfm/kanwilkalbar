@@ -1,1 +1,5 @@
-fsdfs
+<?php
+
+	echo 'ini a.php';
+
+?>
